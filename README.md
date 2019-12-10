@@ -1,6 +1,6 @@
 # hello-world
 
-Himasnhu here,
+Himanshu here,
 I love to learn new technologies.
 Recently I'm working on IoT and Automation and got selected to work on AICTE's projects.
 
